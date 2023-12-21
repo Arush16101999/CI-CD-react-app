@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <div
+        {/* <div
           className="relative w-full max-w-[1490px] flex 
         items-center justify-between pt-10 mx-auto px-10"
         >
@@ -16,6 +16,9 @@ function App() {
             <NavLink to="reference">Reference</NavLink>
             <NavLink to="care">Care</NavLink>
           </ul>
+        </div> */}
+        <div>
+          <h1>Welcome To the World of Arushan</h1>
         </div>
       </header>
     </div>
